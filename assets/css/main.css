@@ -1,0 +1,14 @@
+.item {
+  display: none;
+}
+.active {
+  display: block;
+}
+
+h1 {
+  padding: 20px 0;
+}
+
+h2 {
+  padding: 20px 0;
+}
